@@ -1,9 +1,9 @@
 <h1> Welcome to my profile! </h1>
 
 I am ready for action in the fields of Web Development via 
-- *HTML+
+- *HTML*
 - *CSS*
 - *JavaScript* 
 - *React*
 
-[Contact](raimartontsch@gmail.com)
+[Contact me](raimartontsch@gmail.com)

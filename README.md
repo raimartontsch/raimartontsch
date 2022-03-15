@@ -6,4 +6,4 @@ Ready for action in the fields of Web Development via
 - *JavaScript* 
 - *React*
 
-[Contact](raimartontsch@gmail.com)
+[Contact](mailto:raimar.tontsch@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
